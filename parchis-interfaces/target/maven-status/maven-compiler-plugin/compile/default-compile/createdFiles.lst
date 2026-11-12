@@ -1,4 +1,3 @@
-negocio\PerfilBO.class
+com\parchis\interfaces\dao\IPerfilDAO.class
 interfaces\IFachadaSala.class
-persistencia\PerfilDAOMYSQL.class
-interfaces\IPerfilDAO.class
+com\parchis\interfaces\dto\PerfilDTO.class

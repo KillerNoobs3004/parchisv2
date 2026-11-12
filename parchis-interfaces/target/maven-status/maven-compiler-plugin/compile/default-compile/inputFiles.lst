@@ -1,4 +1,3 @@
 C:\Users\martin pc x\Documents\NetBeansProjects\parchis-interfaces\src\main\java\com\cope\parchis\interfaces\IFachadaSala.java
-C:\Users\martin pc x\Documents\NetBeansProjects\parchis-interfaces\src\main\java\interfaces\dao\IPerfilDAO.java
-C:\Users\martin pc x\Documents\NetBeansProjects\parchis-interfaces\src\main\java\negocio\PerfilBO.java
-C:\Users\martin pc x\Documents\NetBeansProjects\parchis-interfaces\src\main\java\persistencia\PerfilDAOMYSQL.java
+C:\Users\martin pc x\Documents\NetBeansProjects\parchis-interfaces\src\main\java\com\parchis\interfaces\dao\IPerfilDAO.java
+C:\Users\martin pc x\Documents\NetBeansProjects\parchis-interfaces\src\main\java\com\parchis\interfaces\dto\PerfilDTO.java

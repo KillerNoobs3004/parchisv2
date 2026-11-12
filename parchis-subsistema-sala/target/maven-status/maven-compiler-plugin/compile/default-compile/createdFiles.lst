@@ -1,1 +1,4 @@
+com\parchis\subsistema\negocio\PerfilBO.class
+com\parchis\subsistema\servidor\ServidorMain.class
 subsistema\sala\FachadaSalaMock.class
+com\parchis\subsistema\dao\PerfilDAOMYSQL.class
